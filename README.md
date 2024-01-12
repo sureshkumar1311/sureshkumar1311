@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suresh Kumar</h1>
 <h3 align="center">A passionate data analyst from chennai</h3>
 
-- 🌱 I’m currently learning **Machine learning and deep learning**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sureshkumar1311](https://github.com/sureshkumar1311)
 
-- 💬 Ask me about **Python and power BI**
+- 💬 Ask me about **Python and Power BI**
 
 - 📫 How to reach me **sureshkumar13112@gmail.com**
 
